@@ -1,0 +1,3 @@
+CRIAR PASTA COM O NOME "java"
+
+verificar o passo a passo de instalação para nao dar erro
